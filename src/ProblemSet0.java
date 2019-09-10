@@ -14,9 +14,9 @@
  * questions, and fix your mistakes. It's the only way to get good at programming.
  */
 
-Public Class PSet0 {
+public class PSet0 {
 
-    public void Main(String args) {
+    public static void Main(String[] args) {
 
         /*
          * Exercise 1.
@@ -24,7 +24,9 @@ Public Class PSet0 {
          * Print a message to the console.
          */
 
-        System.outprintln("\nHello, world! Am I a programmer yet?);
+        System.outprintln("Hello, world! Am I a programmer yet?);
+    
+   
 
         /*
          * Exercise 2.
